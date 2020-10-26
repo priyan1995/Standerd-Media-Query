@@ -1,0 +1,7 @@
+
+/* media query just for IE */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	.pd-pp-overlay{
+		padding-top:150px;
+	}
+}
